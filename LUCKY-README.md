@@ -19,6 +19,8 @@ any web server or even local file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ### Copyright
 
 2023 Git.Training
